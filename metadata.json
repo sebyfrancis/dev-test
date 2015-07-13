@@ -1,0 +1,13 @@
+{
+  "author": "Seby Francis K",
+  "dependencies": [],
+  "license": "-",
+  "name": "devel-test",
+  "operatingsystem_support": [],
+  "project_page": "",
+  "requirements": [],
+  "source": "-",
+  "summary": "Testing purpose only",
+  "tags": ["devel", "test"],
+  "version": "0.1.0"
+}
